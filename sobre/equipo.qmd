@@ -31,16 +31,10 @@ description: "Investigadores responsables del Estudio Nacional Electoral de Méx
 **Matthew Singer**<br>University of Connecticut · Ciencia Política<br>[Perfil UConn](https://polisci.uconn.edu/person/matthew-singer/)
 :::
 
-:::
-
-## Participaciones anteriores
-
-::: {.equipo}
-
 ::: {.persona}
 ![](../assets/equipo/ley.jpg){fig-alt="Foto de Sandra Ley"}
 
-**Sandra Ley**<br>Tecnológico de Monterrey · Escuela de Ciencias Sociales y Gobierno<br>*Participó en las ediciones 2018 y 2021*<br>[Sitio personal](https://sandraley.net/)
+**Sandra Ley**<br>Tecnológico de Monterrey · Escuela de Ciencias Sociales y Gobierno<br>[Sitio personal](https://sandraley.net/)
 :::
 
 :::

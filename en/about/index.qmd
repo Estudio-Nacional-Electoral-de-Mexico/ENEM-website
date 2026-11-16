@@ -34,16 +34,11 @@ The full history of the CIDE-CSES project and its CSES modules is available [in 
 **Matthew Singer**<br>University of Connecticut · Political Science<br>[UConn profile](https://polisci.uconn.edu/person/matthew-singer/)
 :::
 
-:::
-
-## Past participants
-
-::: {.equipo}
-
 ::: {.persona}
 ![](../../assets/equipo/ley.jpg){fig-alt="Foto de Sandra Ley"}
 
-**Sandra Ley**<br>Tecnológico de Monterrey · School of Social Sciences and Government<br>*Took part in the 2018 and 2021 editions*<br>[Personal website](https://sandraley.net/)
+**Sandra Ley**<br>Tecnológico de Monterrey · School of Social Sciences and Government<br>[Personal website](https://sandraley.net/)
 :::
 
 :::
+
