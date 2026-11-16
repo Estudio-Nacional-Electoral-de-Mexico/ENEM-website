@@ -3,7 +3,7 @@ title: "Download data"
 description: "ENEM datasets are published on Harvard Dataverse. Each wave has its own DOI."
 ---
 
-Data are free for academic, non-commercial use. Harvard Dataverse will ask you to fill a short guestbook (name, institution, intended use) and accept the terms of use before downloading.
+ENEM datasets are in the [ENEM collection on Harvard Dataverse](https://dataverse.harvard.edu/dataverse/enem), openly available under a **CC BY 4.0** license: you may use them freely as long as you cite the source. Besides the national post-electoral survey of each wave, there are related surveys in 2012, 2015, 2018 and 2021 (the number next to the year shows how many); see each wave page. The [collection guide](https://doi.org/10.7910/DVN/EJ2PF6) holds the cross-study documentation.
 
 ::: {#dv-tabla .dv-tabla data-lang="en"}
 Loading…

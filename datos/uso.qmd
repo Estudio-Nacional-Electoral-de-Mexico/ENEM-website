@@ -2,10 +2,7 @@
 title: "Términos de uso"
 ---
 
-::: {.callout-warning}
-Texto por definir con el equipo ENEM. Debe coincidir con los términos configurados en Harvard Dataverse.
-:::
+Los datos del ENEM se publican en Harvard Dataverse con licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es).
 
-- Uso académico y no comercial.
-- Citar el ENEM en toda publicación que use los datos ([ver cómo citar](../citar/index.qmd)).
-- No intentar reidentificar a las personas entrevistadas.
+- Puedes usar, compartir y adaptar los datos para cualquier fin, siempre que **cites el ENEM** ([ver cómo citar](../citar/index.qmd)).
+- No intentes reidentificar a las personas entrevistadas.

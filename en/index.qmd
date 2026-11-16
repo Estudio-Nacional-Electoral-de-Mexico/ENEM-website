@@ -39,7 +39,7 @@ Since 1997, the Mexican National Electoral Study (ENEM-CIDE) has published infor
 ::: {.persona}
 ![](../assets/equipo/beltran.jpg){fig-alt="Foto de Ulises Beltrán"}
 
-**Ulises Beltrán**<br>BGC<br>[bgc.com.mx](https://www.bgc.com.mx/)
+**Ulises Beltrán** †<br>(1949–2026)<br>*Founder of ENEM*<br>BGC<br>[bgc.com.mx](https://www.bgc.com.mx/)
 :::
 
 ::: {.persona}
@@ -58,6 +58,18 @@ Since 1997, the Mexican National Electoral Study (ENEM-CIDE) has published infor
 ![](../assets/equipo/singer.jpg){fig-alt="Foto de Matthew Singer"}
 
 **Matthew Singer**<br>University of Connecticut · Political Science<br>[UConn profile](https://polisci.uconn.edu/person/matthew-singer/)
+:::
+
+:::
+
+## Past participants
+
+::: {.equipo .equipo-portada}
+
+::: {.persona}
+![](../assets/equipo/ley.jpg){fig-alt="Foto de Sandra Ley"}
+
+**Sandra Ley**<br>Tecnológico de Monterrey · School of Social Sciences and Government<br>*Took part in the 2018 and 2021 editions*<br>[Personal website](https://sandraley.net/)
 :::
 
 :::

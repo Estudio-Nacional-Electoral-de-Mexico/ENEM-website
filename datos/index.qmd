@@ -3,7 +3,7 @@ title: "Descargar datos"
 description: "Las bases del ENEM se publican en Harvard Dataverse. Cada ola tiene su propio DOI."
 ---
 
-Los datos son gratuitos para uso académico y no comercial. Al descargar, Harvard Dataverse te pedirá llenar un breve registro (nombre, institución y uso previsto) y aceptar los términos de uso.
+Las bases del ENEM están en la [colección del ENEM en Harvard Dataverse](https://dataverse.harvard.edu/dataverse/enem), en acceso abierto y con licencia **CC BY 4.0**: puedes usarlas libremente siempre que cites la fuente. Además de la encuesta postelectoral nacional de cada ola, hay encuestas complementarias en 2012, 2015, 2018 y 2021 (el número junto al año indica cuántas); las encuentras en la página de cada ola.
 
 ## Datos por ola
 
@@ -18,10 +18,13 @@ Cargando…
 
 | Archivo | Formato |
 |---|---|
-| Base de datos | `.dta` · `.csv` · `.sav` |
-| Cuestionario | `.pdf` |
-| Libro de códigos | `.pdf` |
-| Nota metodológica | `.pdf` |
+| Base de datos | `.dta` (Stata) y `.tab` (texto tabular; Dataverse permite descargarla también como CSV o RData) |
+| Libro de códigos | `.csv` |
+| Cuestionario, boletas y tarjetas | `.pdf` |
+| Reportes CSES de diseño y de contexto (macro), notas metodológicas | `.pdf`, según la ola |
+| README, historial de cambios y sumas de verificación | `.md` · `.txt` |
+
+La [guía de la colección](https://doi.org/10.7910/DVN/EJ2PF6) reúne la documentación común: guía del repositorio, concordancia de preguntas 1997–2024, nota sobre la ponderación 2024 y bibliografía.
 
 ::: {.callout-tip}
 ## Desde R
