@@ -24,6 +24,8 @@ website:
             href: studies/index.qmd
           - text: "Variable finder"
             href: variables/index.qmd
+      - text: "Explore"
+        href: explore/index.qmd
       - text: "Research"
         href: research/index.qmd
       - text: "The Changing Mexican Voter"
@@ -35,12 +37,12 @@ website:
         href: "../index.html"
         aria-label: "Versión en español"
       - icon: twitter-x
-        href: "https://twitter.com/ENEM_Mexico"
-        aria-label: "ENEM on X (Twitter)"
+        href: "https://x.com/ENEM_Mexico"
+        aria-label: "ENEM on X"
   page-footer:
     background: "#0E5A4F"
     foreground: "#FFFFFF"
-    left: "ENEM · Mexican Election Study · Member of [CSES](https://cses.org/) · [@ENEM_Mexico](https://twitter.com/ENEM_Mexico)"
+    left: "ENEM · Mexican Election Study · Member of [CSES](https://cses.org/) · [@ENEM_Mexico](https://x.com/ENEM_Mexico)"
     right: "Data on [Harvard Dataverse](https://dataverse.harvard.edu/) · Built with [Quarto](https://quarto.org/)"
 
 format:

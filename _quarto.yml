@@ -16,7 +16,7 @@ lang: es
 website:
   title: "ENEM"
   description: "Estudio Nacional Electoral de México: encuestas postelectorales desde 1997, vinculadas al Comparative Study of Electoral Systems (CSES)."
-  site-url: "https://ddjpgarcia.github.io/ENEM-website/"
+  site-url: "https://estudio-nacional-electoral-de-mexico.github.io/ENEM-website/"
   search: true
   page-navigation: true
   navbar:
@@ -61,12 +61,12 @@ website:
         href: "en/index.html"
         aria-label: "English version"
       - icon: twitter-x
-        href: "https://twitter.com/ENEM_Mexico"
-        aria-label: "ENEM en X (Twitter)"
+        href: "https://x.com/ENEM_Mexico"
+        aria-label: "ENEM en X"
   page-footer:
     background: "#0E5A4F"
     foreground: "#FFFFFF"
-    left: "ENEM · Estudio Nacional Electoral de México · Miembro del [CSES](https://cses.org/) · [@ENEM_Mexico](https://twitter.com/ENEM_Mexico)"
+    left: "ENEM · Estudio Nacional Electoral de México · Miembro del [CSES](https://cses.org/) · [@ENEM_Mexico](https://x.com/ENEM_Mexico)"
     right: "Datos en [Harvard Dataverse](https://dataverse.harvard.edu/) · Hecho con [Quarto](https://quarto.org/)"
 
 format:
