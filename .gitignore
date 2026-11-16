@@ -2,3 +2,6 @@
 /en/.quarto/
 /_site/
 *_files/
+# Export de Shinylive: se genera en GitHub Actions
+/explorar/app/*
+!/explorar/app/index.html

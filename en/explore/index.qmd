@@ -1,0 +1,21 @@
+---
+title: "Explore the main variables"
+description: "Weighted trends and distributions from the ENEM harmonized panel, 1997–2024."
+page-layout: full
+toc: false
+---
+
+Pick a variable to see how it changed between 1997 and 2024, or how responses are distributed in a given wave, overall or by sex, age and education. Hover over the chart to see each value with its confidence interval; **Download CSV** gets the data behind what you are looking at.
+
+```{=html}
+<iframe src="../../explorar/app/index.html?lang=en" title="Explore ENEM" class="enem-app" loading="lazy"></iframe>
+<style>
+  .enem-app { width: 100%; height: 900px; border: 1px solid #D9DCDA; border-radius: 10px; background: #fff; }
+  @media (max-width: 768px) { .enem-app { height: 1300px; } }
+</style>
+```
+
+::: {.callout-note}
+## About the data
+The app runs entirely in your browser; the first load can take a few seconds. It shows weighted percentages and means by wave and group, computed with [rENEM](https://ddjpgarcia.github.io/rENEM/) on the harmonized panel. It contains no microdata: to work with the full surveys, [download the data](../data/index.qmd) or use the [variable finder](../variables/index.qmd).
+:::
